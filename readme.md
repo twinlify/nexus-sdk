@@ -12,7 +12,7 @@
 
 ## Nexus
 
-Nexus is a JavaScript library that uses WebGL to render interactive 3D digital twins.
+Nexus is a JavaScript library using WebGL to render interactive 3D digital twins.
 
 It provides an API to:
 
